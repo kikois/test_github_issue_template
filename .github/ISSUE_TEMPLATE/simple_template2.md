@@ -2,7 +2,7 @@
 name: てんぷれ
 about: テンプレートテスト用
 title: ''
-labels: 'test'
+labels: 'bug'
 assignees: ''
 ---
 

@@ -2,7 +2,7 @@
 name: テンプレートの追加テスト
 about: テンプレートの追加のテストをします
 title: ''
-labels: 'template'
+labels: 'documentation'
 assignees: ''
 ---
 
